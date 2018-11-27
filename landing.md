@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: Projects
+layout: landing
 description: 'My personal projects<br />in artificial intelligence.'
 image: assets/images/pic07.jpg
 nav-menu: true
