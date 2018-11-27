@@ -4,7 +4,7 @@ subtitle: Artificial Intelligence
 email: jvictordias@gmail.com
 description: Meu CV, empresa<br /> e alguns projetos.
 baseurl: # the subpath of your site, e.g. /blog
-url: jvlegend.github.io # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 author:
 street_address: Sao Paulo
 city: Sao Paulo
