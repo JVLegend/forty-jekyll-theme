@@ -2,7 +2,7 @@
 layout: post
 title: Empresas
 description: empresas das quais participo ou sou dono
-image: assets/images/pic11.jpg
+image: assets/images/pic_6_6.jpg
 nav-menu: true
 ---
 
