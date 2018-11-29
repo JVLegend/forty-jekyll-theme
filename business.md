@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Empresas
-description: empresas das quais participo ou sou dono
+title: Business
+description: Startups I own or that I take part in
 image: assets/images/pic_6_6.jpg
 nav-menu: true
 ---
