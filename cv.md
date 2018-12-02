@@ -16,29 +16,38 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Quick BIO</h2>
+<p>João Victor é um profissional [INSERIR TEXTO].</p>
+
+<h1>WORK EXPERIENCE</h1>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Data Scientist</h3>
+		<h2>Company: everis</h2>
+		<h1>08/2017-Present</h1>
+		<p>- Coordinating everis Machine Learning Community Americas,
+		   - Driving the Data Science team on publishing research papers,
+- Evangelizing AI and helping attracting more talent to
+the company,
+- Supervising Neural Networks architecture framework
+implementation,
+- GAN architectures for data augmentation;
+- Automatic documents classification with ELMO + BI-
+LSTM + CNN + CRF,
+- Developed a hybrid model for Automated Offline
+Handwritten Signature Verification on checkbooks using
+Convolutional Networks,
+- Stock price estimation using LSTM + Attention,
+- Object Detection, Recognition and Segmentation,
+- Face Recognition, Alignment and De-identification,
+- Developed a pedestrian tracking surveillance on
+Raspberry Pi 3,
+- Developed a Retrieval-based banking chatbot on
+Facebook Messenger with Tensorflow.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Magna odio tempus commodo</h3>
 		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-	</div>
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 </div>
 
@@ -114,8 +123,8 @@ nav-menu: true
 <ul class="alt">
 	<li>Most Valuable Professional 2018 [everis, 2018]</li>
 	<li>Global Finalist - NTT DATA Hackathon 2018 [NTT DATA, 2018]</li>
-	<li>TOP 46 - Valuable Young Leader 2018 Award [Harvard Business Review, 2018]</li>
-	<li>Rio de Janeiro´s semifinalist – SEBRAE Challenge [SEBRAE, 2012]</li>
+	<li>TOP 46 - Valuable Young Leader 2018 [Harvard Business Review, 2018]</li>
+	<li>Rio de Janeiro´s Semifinalist – SEBRAE Challenge [SEBRAE, 2012]</li>
 </ul>
 
 
