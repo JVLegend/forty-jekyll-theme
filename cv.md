@@ -94,19 +94,30 @@ nav-menu: true
 	<li><a href="" class="button fit small">Data Visualisation</a></li>
 </ul>
 
-</div>
-<div class="6u$ 12u$(medium)">
-
-
-
 <!-- Languages -->
 <h4>Languages</h4>
-<ul class="alt">
+<ul>
 	<li>Portuguese [Native]</li>
 	<li>English [Fluent]</li>
 	<li>Spanish [Beginner]</li>
 	<li>Japanese [Beginner]</li>
 </ul>
+
+
+</div>
+<div class="6u$ 12u$(medium)">
+
+
+
+<!-- Awards -->
+<h4>Awards</h4>
+<ul class="alt">
+	<li>Most Valuable Professional 2018 [everis, 2018]</li>
+	<li>Global Finalist - NTT DATA Hackathon 2018 [NTT DATA, 2018]</li>
+	<li>TOP 46 - Valuable Young Leader 2018 Award [Harvard Business Review, 2018]</li>
+	<li>Rio de Janeiro´s semifinalist – SEBRAE Challenge [SEBRAE, 2012]</li>
+</ul>
+
 
 <!-- Tools -->
 <h4>Tools</h4>
