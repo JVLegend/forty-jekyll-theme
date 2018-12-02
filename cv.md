@@ -23,13 +23,6 @@ nav-menu: true
  
 <p>He has had some of his works published in the Financial Times, The Guardian, and several articles in magazines and newspapers of great circulation in Brazil. In 2012 he founded one of the largest Statistical websites in Brazil, and is currently producing new content on the recently launched portal www.datarockstar.com.</p>
 
-<h4>Social Media</h4>
-<ul class="icons">
-	<li><a href="https://twitter.com/JoaoVictor_AC" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-	<li><a href="https://github.com/jvlegend" class="icon alt fa-github"><span class="label">Github</span></a></li>
-	<li><a href="https://www.linkedin.com/in/joaovictordias/" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
-</ul>
-
 <h2>Work Experience</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -147,6 +140,8 @@ nav-menu: true
 	<li><a href="" class="button fit small">Data Visualisation</a></li>
 </ul>
 
+<!-- Aditional Activities -->
+<h4>Aditional Activities</h4>
 
 
 
@@ -184,6 +179,8 @@ nav-menu: true
 	<li><a href="" class="button special fit small">DICOM</a></li>
 </ul>
 
+<!-- Conferences -->
+<h4>Conferences</h4>
 
 </div>
 </div>
@@ -211,11 +208,19 @@ nav-menu: true
 </div>
 <div class="6u$ 12u$(medium)">
 
+<h4>Social</h4>
+<ul class="icons">
+	<li><a href="https://twitter.com/JoaoVictor_AC" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+	<li><a href="https://github.com/jvlegend" class="icon alt fa-github"><span class="label">Github</span></a></li>
+	<li><a href="https://www.linkedin.com/in/joaovictordias/" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+</ul>
+
 <!-- Press -->
 <h4>Press</h4>
 <ul class="alt">
 	<li><b><a href="https://universovisual.com.br/secao/materias/111/grandes-artistas-na-oftalmologia">LINK</a></b> - Grandes artistas na oftalmologia <strong>[Revista Universo Visual, 2018]</strong></li>
 </ul>
+
 </div>
 </div>
 
