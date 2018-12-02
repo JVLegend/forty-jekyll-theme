@@ -45,24 +45,6 @@ nav-menu: true
 <hr class="major" />
 
 
-
-
-<!-- Languages -->
-<h4>Languages</h4>
-	<ul class="alt">
-		<li>Portuguese [Native]</li>
-		<li>English [Fluent]</li>
-		<li>Spanish [Beginner]</li>
-		<li>Japanese [Beginner]</li>
-	</ul>
-
-<div class="6u$ 12u$(medium)">
-	
-	
-	
-	
-	
-	
 <!-- Info -->
 <h2 id="education">Education</h2>
 <div class="row 200%">
