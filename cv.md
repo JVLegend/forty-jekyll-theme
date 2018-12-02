@@ -44,6 +44,53 @@ nav-menu: true
 
 <hr class="major" />
 
+
+<!-- Info -->
+<h2 id="info">Info</h2>
+<div class="row 200%">
+	<div class="6u 12u$(medium)">
+
+<h3>Education</h3>
+
+<h4>Universities</h4>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Description</th>
+				<th>Year</th>
+				<th>Country</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>National School of Statistical Sciences</td>
+				<td>B.S. in Statistics</td>
+				<td>2015</td>
+				<td>Brazil</td>
+			</tr>
+			<tr>
+				<td>University of Mannheim</td>
+				<td>MS in Survey and Data Science</td>
+				<td>2019</td>
+				<td>Germany</td>
+			</tr>
+		</tbody>
+	</table>
+</div>	
+		
+<div class="6u$ 12u$(medium)">
+
+<!-- Languages -->
+<h4>Languages</h4>
+	<ul class="alt">
+		<li>Portuguese [Native]</li>
+		<li>English [Fluent]</li>
+		<li>Spanish [Beginner]</li>
+		<li>Japanese [Beginner]</li>
+	</ul>
+	
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
