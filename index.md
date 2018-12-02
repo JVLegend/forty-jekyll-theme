@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Joao Victor Dias'
+landing-title: 'João Victor Dias'
 description: null
 image: null
 author: null
