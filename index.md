@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Joao Victor Dias'
+landing-title: 'Joao Victor Dias'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Colocar aqui um texto com um resumo sobre minha BIO. Texto de até 5 linhas.
+João Victor Dias is a data scientist at everis Brazil, coordinates the LATAM Data Science community at everis and also coordinates the Artificial Intelligence area of the Innovation Group in Ophthalmology at the Hospital das Clínicas de São Paulo.
