@@ -192,10 +192,13 @@ nav-menu: true
 <!-- Awards -->
 <h4>Awards</h4>
 <ul class="alt">
-	<li>Most Valuable Professional 2018 [everis, 2018]</li>
-	<li>Global Finalist - NTT DATA Hackathon 2018 [NTT DATA, 2018]</li>
-	<li>TOP 46 - Valuable Young Leader 2018 [Harvard Business Review, 2018]</li>
+	<li>Most Valuable Professional [everis, 2018]</li>
+	<li>Global Finalist - NTT DATA Hackathon [NTT DATA, 2018]</li>
+	<li>TOP 46 - Valuable Young Leader [Harvard Business Review, 2018]</li>
+	<li>Semifinalist - Data For Climate Action [UN GLobal Pulse, 2017/</li>
+	<li>Survey Skills Development Course [IBGE, 2017]</li>
 	<li>Rio de Janeiro´s Semifinalist – SEBRAE Challenge [SEBRAE, 2012]</li>
+	<li>Undergraduate Scholarship at National School of Statistical Sciences [CNPq PIBIC, 2012]</li>
 </ul>
 
 </div>
@@ -203,9 +206,10 @@ nav-menu: true
 
 <!-- Press -->
 <h4>Press</h4>
-
+<ul class="alt">
+	<li><a href="https://universovisual.com.br/secao/materias/111/grandes-artistas-na-oftalmologia">LINK</a> - Grandes artistas na oftalmologia [Revista Universo Visual, 2018]</li>
+</ul>
 </div>
 </div>
-</section>
 
 </div>
