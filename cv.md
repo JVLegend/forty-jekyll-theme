@@ -140,6 +140,13 @@ nav-menu: true
 	<li><a href="" class="button fit small">Data Visualisation</a></li>
 </ul>
 
+
+
+
+</div>
+<div class="6u$ 12u$(medium)">
+
+
 <!-- Languages -->
 <h4>Languages</h4>
 <ul>
@@ -149,20 +156,6 @@ nav-menu: true
 	<li>Japanese [Beginner]</li>
 </ul>
 
-
-</div>
-<div class="6u$ 12u$(medium)">
-
-
-
-<!-- Awards -->
-<h4>Awards</h4>
-<ul class="alt">
-	<li>Most Valuable Professional 2018 [everis, 2018]</li>
-	<li>Global Finalist - NTT DATA Hackathon 2018 [NTT DATA, 2018]</li>
-	<li>TOP 46 - Valuable Young Leader 2018 [Harvard Business Review, 2018]</li>
-	<li>Rio de Janeiro´s Semifinalist – SEBRAE Challenge [SEBRAE, 2012]</li>
-</ul>
 
 
 <!-- Tools -->
@@ -196,9 +189,18 @@ nav-menu: true
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
-<!-- Universities -->
-<h4>Universities</h4>
+<!-- Awards -->
+<h4>Awards</h4>
+<ul class="alt">
+	<li>Most Valuable Professional 2018 [everis, 2018]</li>
+	<li>Global Finalist - NTT DATA Hackathon 2018 [NTT DATA, 2018]</li>
+	<li>TOP 46 - Valuable Young Leader 2018 [Harvard Business Review, 2018]</li>
+	<li>Rio de Janeiro´s Semifinalist – SEBRAE Challenge [SEBRAE, 2012]</li>
+</ul>
+<!-- Press -->
+<h4>Press</h4>
 
+</div>
 </div>
 </section>
 
