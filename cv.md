@@ -160,21 +160,21 @@ nav-menu: true
 
 <!-- Tools -->
 <h4>Tools</h4>
-<ul class="actions">
-	<li><a href="" class="button special">Keras</a></li>
-	<li><a href="" class="button special">Tensorflow</a></li>
+<ul class="actions fit small">
+	<li><a href="" class="button special fit small">Keras</a></li>
+	<li><a href="" class="button special fit small">Tensorflow</a></li>
 </ul>
-<ul class="actions">
-	<li><a href="" class="button special">PyTorch</a></li>
-	<li><a href="" class="button special">OpenCV</a></li>
+<ul class="actions fit small">
+	<li><a href="" class="button special fit small">PyTorch</a></li>
+	<li><a href="" class="button special fit small">OpenCV</a></li>
 </ul>
-<ul class="actions">
-	<li><a href="" class="button special">Python</a></li>
-	<li><a href="" class="button special">R</a></li>
+<ul class="actions fit small">
+	<li><a href="" class="button special fit small">Python</a></li>
+	<li><a href="" class="button special fit small">R</a></li>
 </ul>
-<ul class="actions">
-	<li><a href="" class="button special">RaspberryPi</a></li>
-	<li><a href="" class="button special">DICOM</a></li>
+<ul class="actions fit small">
+	<li><a href="" class="button special fit small">RaspberryPi</a></li>
+	<li><a href="" class="button special fit small">DICOM</a></li>
 </ul>
 
 
