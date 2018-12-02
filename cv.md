@@ -84,7 +84,12 @@ nav-menu: true
 <ul class="actions fit small">
 	<li><a href="" class="button fit small">Computer Vision</a></li>
 	<li><a href="" class="button fit small">Predictive Modelling</a></li>
+</ul>
+<ul class="actions fit small">
 	<li><a href="" class="button fit small">Machine Learning</a></li>
+	<li><a href="" class="button fit small">Language Model</a></li>
+</ul>
+<ul class="actions fit small">
 	<li><a href="" class="button fit small">Team Coordination</a></li>
 	<li><a href="" class="button fit small">Data Visualisation</a></li>
 </ul>
@@ -108,11 +113,18 @@ nav-menu: true
 <ul class="actions">
 	<li><a href="" class="button special">Keras</a></li>
 	<li><a href="" class="button special">Tensorflow</a></li>
+</ul>
+<ul class="actions">
 	<li><a href="" class="button special">PyTorch</a></li>
 	<li><a href="" class="button special">OpenCV</a></li>
+</ul>
+<ul class="actions">
 	<li><a href="" class="button special">Python</a></li>
 	<li><a href="" class="button special">R</a></li>
+</ul>
+<ul class="actions">
 	<li><a href="" class="button special">RaspberryPi</a></li>
+	<li><a href="" class="button special">DICOM</a></li>
 </ul>
 
 
