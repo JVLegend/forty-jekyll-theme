@@ -17,7 +17,11 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Quick BIO</h2>
-<p>João Victor é um profissional [INSERIR TEXTO].</p>
+<p>João Victor Dias is a data scientist at everis Brazil, coordinates the LATAM Data Science community at everis and also coordinates the Artificial Intelligence area of the Innovation Group in Ophthalmology at the Hospital das Clínicas de São Paulo.</p>
+
+<p>He is a specialist in the implementation of newly published Artificial Intelligence solutions, usually State of the Art updates, in the areas of Computational Vision and Natural Language Processing. He works in Healthcare, Banking, Fashion and Retail projects, among others.</p> 
+ 
+<p>He has had some of his works published in the Financial Times, The Guardian, and several articles in magazines and newspapers of great circulation in Brazil. In 2012 he founded one of the largest Statistical websites in Brazil, and is currently producing new content on the recently launched portal www.datarockstar.com.</p>
 
 <h2>Work Experience</h2>
 <div class="row">
