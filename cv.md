@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-image: assets/images/pic08.jpg
+image: assets/images/pic09.jpg
 nav-menu: true
 ---
 
