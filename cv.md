@@ -110,10 +110,10 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>State Technical School Henrique Lage</td>
-				<td>Electronics technician</td>
-				<td>2007</td>
-				<td>Brazil</td>
+				<td>University of Mannheim</td>
+				<td>MS in Survey and Data Science</td>
+				<td>2019</td>
+				<td>Germany</td>
 			</tr>
 			<tr>
 				<td>National School of Statistical Sciences</td>
@@ -122,11 +122,12 @@ nav-menu: true
 				<td>Brazil</td>
 			</tr>
 			<tr>
-				<td>University of Mannheim</td>
-				<td>MS in Survey and Data Science</td>
-				<td>2019</td>
-				<td>Germany</td>
+				<td>State Technical School Henrique Lage</td>
+				<td>Electronics technician</td>
+				<td>2007</td>
+				<td>Brazil</td>
 			</tr>
+			
 		</tbody>
 	</table>
 </div>	
@@ -187,6 +188,59 @@ nav-menu: true
 
 <!-- Conferences -->
 <h4>Conferences</h4>
+
+<!-- Certification -->
+<h4>Certification</h4>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Provider</th>
+				<th>Year</th>
+				<th>Country</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Big Data in Healthcare</td>
+				<td>Coursera - University of São Paulo</td>
+				<td>2015</td>
+				<td>Brazil</td>
+			</tr>
+			<tr>
+				<td>Machine Learning</td>
+				<td>Coursera - Stanford University</td>
+				<td>2014</td>
+				<td>Brazil</td>
+			</tr>
+			<tr>
+				<td>The Data Scientist's Toolbox</td>
+				<td>Coursera - Johns Hopkins University</td>
+				<td>2014</td>
+				<td>Brazil</td>
+			</tr>
+			<tr>
+				<td>Practical Machine Learning</td>
+				<td>Coursera - Johns Hopkins University</td>
+				<td>2014</td>
+				<td>Brazil</td>
+			</tr>
+			<tr>
+				<td>Data Analysis with R</td>
+				<td>Udacity - Johns Hopkins University</td>
+				<td>2014</td>
+				<td>Brazil</td>
+			</tr>
+			<tr>
+				<td>Statistical Methods for Disclosure Control</td>
+				<td>Brazilian Institute of Geography and Statistics</td>
+				<td>2012</td>
+				<td>Brazil</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
 
 </div>
 </div>
