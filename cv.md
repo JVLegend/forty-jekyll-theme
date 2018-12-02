@@ -24,28 +24,26 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3>Data Scientist</h3>
 		<h5>Company: everis [08/2017-Present]</h5>
-		<p>- Coordinating everis Machine Learning Community Americas,</p>
 		<ul>
-			<li>- Driving the Data Science team on publishing research papers,</li>
-			<li>- Evangelizing AI and helping attracting more talent to the company,</li>
-			<li>- Supervising Neural Networks architecture framework implementation,</li>
-			<li>- GAN architectures for data augmentation,</li>
-			<li>- Automatic documents classification with ELMO + BI-LSTM + CNN + CRF,</li>
-			<li>- Developed a hybrid model for Automated Offline Handwritten Signature Verification on checkbooks using Convolutional Networks,</li>
+			<li>Coordinating everis Machine Learning Community Americas,</li>
+			<li>Driving the Data Science team on publishing research papers,</li>
+			<li>Evangelizing AI and helping attracting more talent to the company,</li>
+			<li>Supervising Neural Networks architecture framework implementation,</li>
+			<li>GAN architectures for data augmentation,</li>
+			<li>Automatic documents classification with ELMO + BI-LSTM + CNN + CRF,</li>
+			<li>Developed a hybrid model for Automated Offline Handwritten Signature Verification on checkbooks using Convolutional Networks,</li>
+			<li>Stock price estimation using LSTM + Attention,</li>
+			<li>Object Detection, Recognition and Segmentation,</li>
+			<li>Face Recognition, Alignment and De-identification,</li>
+			<li>Developed a pedestrian tracking surveillance on Raspberry Pi 3,</li>
+			<li>Developed a Retrieval-based banking chatbot on Facebook Messenger with Tensorflow.</li>
 		</ul>
-		<p>- Stock price estimation using LSTM + Attention,
-- Object Detection, Recognition and Segmentation,
-- Face Recognition, Alignment and De-identification,
-- Developed a pedestrian tracking surveillance on
-Raspberry Pi 3,
-- Developed a Retrieval-based banking chatbot on
-Facebook Messenger with Tensorflow.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Artificial Intelligence Coordinator</h3>
 		<h5>Company: GeekVision - Clinical Hospital, University of São Paulo. [05/2017-Present]</h5>
-		<p>- Developed an eye drops detector for people with low vision, based on VGG16 feature embeddings,
-- Developed a Tear breakup time detector with CNN and manifold embeddings.</p>
+		<li>Developed an eye drops detector for people with low vision, based on VGG16 feature embeddings,</li>
+		<li>Developed a Tear breakup time detector with CNN and manifold embeddings.</li>
 	</div>
 </div>
 
