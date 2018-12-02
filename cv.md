@@ -186,9 +186,6 @@ nav-menu: true
 	<li><a href="" class="button special fit small">DICOM</a></li>
 </ul>
 
-<!-- Conferences -->
-<h4>Conferences</h4>
-
 <!-- Certification -->
 <h4>Certification</h4>
 <div class="table-wrapper">
@@ -280,6 +277,9 @@ nav-menu: true
 <ul class="alt">
 	<li><b><a href="https://universovisual.com.br/secao/materias/111/grandes-artistas-na-oftalmologia">LINK</a></b> - Grandes artistas na oftalmologia <strong>[Revista Universo Visual, 2018]</strong></li>
 </ul>
+
+<!-- Conferences -->
+<h4>Conferences</h4>
 
 </div>
 </div>
