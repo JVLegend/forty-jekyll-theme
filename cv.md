@@ -192,13 +192,13 @@ nav-menu: true
 <!-- Awards -->
 <h4>Awards</h4>
 <ul class="alt">
-	<li>Most Valuable Professional [everis, 2018]</li>
-	<li>Global Finalist - NTT DATA Hackathon [NTT DATA, 2018]</li>
-	<li>TOP 46 - Valuable Young Leader [Harvard Business Review, 2018]</li>
-	<li>Semifinalist - Data For Climate Action [UN GLobal Pulse, 2017/</li>
-	<li>Survey Skills Development Course [IBGE, 2017]</li>
-	<li>Rio de Janeiro´s Semifinalist – SEBRAE Challenge [SEBRAE, 2012]</li>
-	<li>Undergraduate Scholarship at National School of Statistical Sciences [CNPq PIBIC, 2012]</li>
+	<li>Most Valuable Professional <strong>[everis, 2018]</strong></li>
+	<li>Global Finalist - NTT DATA Hackathon <strong>[NTT DATA, 2018]</strong></li>
+	<li>TOP 46 - Valuable Young Leader <strong>[Harvard Business Review, 2018]</strong></li>
+	<li>Semifinalist - Data For Climate Action <strong>[UN GLobal Pulse, 2017]</strong></li>
+	<li>Survey Skills Development Course <strong>[IBGE, 2017]</strong></li>
+	<li>Rio de Janeiro´s Semifinalist – SEBRAE Challenge <strong>[SEBRAE, 2012]</strong></li>
+	<li>Undergraduate Scholarship at National School of Statistical Sciences <strong>[CNPq PIBIC, 2012]</strong></li>
 </ul>
 
 </div>
