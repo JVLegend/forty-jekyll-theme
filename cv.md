@@ -110,6 +110,12 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
+				<td>State Technical School Henrique Lage</td>
+				<td>Electronics technician</td>
+				<td>2007</td>
+				<td>Brazil</td>
+			</tr>
+			<tr>
 				<td>National School of Statistical Sciences</td>
 				<td>B.S. in Statistics</td>
 				<td>2015</td>
