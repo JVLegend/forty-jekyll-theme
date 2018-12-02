@@ -197,6 +197,10 @@ nav-menu: true
 	<li>TOP 46 - Valuable Young Leader 2018 [Harvard Business Review, 2018]</li>
 	<li>Rio de Janeiro´s Semifinalist – SEBRAE Challenge [SEBRAE, 2012]</li>
 </ul>
+
+</div>
+<div class="6u$ 12u$(medium)">
+
 <!-- Press -->
 <h4>Press</h4>
 
