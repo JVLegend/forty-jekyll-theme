@@ -90,6 +90,8 @@ nav-menu: true
 		<li>Spanish [Beginner]</li>
 		<li>Japanese [Beginner]</li>
 	</ul>
+
+<div class="6u$ 12u$(medium)">
 	
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
