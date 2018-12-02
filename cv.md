@@ -49,6 +49,15 @@ nav-menu: true
 				sector to fight climate change,</li>
 			<li>Semifinalist. Developed a Waze like app to help people find the purest air- path at Chicago and São Paulo.</li>
 		</ul>
+		<h3>Statistical Analyst</h3>
+		<h5>Company: Fundação Getúlio Vargas [01/2014-12/2015]</h5>
+		<ul>
+			<li>Created the sentiment analysis model for political debate in social media,</li>
+			<li>Developed a spam filtering machine learning model applied to text data and Twitter account attributes,</li>
+			<li>Co implemented social network graphs framework, which illustrated major national and international
+				newspapers, covers such as the Financial Times,</li>
+			<li>Co implemented a Bayesian spatial model using Twitter data applied on calculating ideological ideal points for legislative actors in Brazil.</li>
+		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Artificial Intelligence Coordinator</h3>
@@ -62,6 +71,13 @@ nav-menu: true
 		<ul>
 			<li>Developed an automated and optimized system focused on enduring brazilian´s complex Internet Traffic Measurement System database,</li>
 			<li>Implemented prototypes of Disclosure Control Methods for MicroData databases.</li>
+		</ul>
+		<h3>Trainee</h3>
+		<h5>Company: Fundação Getúlio Vargas [2013-2014]</h5>
+		<ul>
+			<li>Developed a social Twitter bots identifier through NLP methods and model ensembling,</li>
+			<li>Co implemented social network graphs framework using Gephi and R packages,</li>
+			<li>Created R Shiny visualisations for Urban Mobility.</li>
 		</ul>
 	</div>
 </div>
