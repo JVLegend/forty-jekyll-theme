@@ -42,12 +42,27 @@ nav-menu: true
 			<li>Developed a pedestrian tracking surveillance on Raspberry Pi 3,</li>
 			<li>Developed a Retrieval-based banking chatbot on Facebook Messenger with Tensorflow.</li>
 		</ul>
+		<h3>Team Lead</h3>
+		<h5>Company: United Nations Global Pulse [06/2017-09/2017]</h5>
+		<ul>
+			<li>Data for Climate Action Challenge: The challenge wasto harness data science and big data from the private
+				sector to fight climate change,</li>
+			<li>Semifinalist. Developed a Waze like app to help people find the purest air- path at Chicago and São Paulo.</li>
+		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Artificial Intelligence Coordinator</h3>
-		<h5>Company: GeekVision - Clinical Hospital, University of São Paulo. [05/2017-Present]</h5>
-		<li>Developed an eye drops detector for people with low vision, based on VGG16 feature embeddings,</li>
-		<li>Developed a Tear breakup time detector with CNN and manifold embeddings.</li>
+		<h5>Company: GeekVision - Clinical Hospital, University of São Paulo [05/2017-Present]</h5>
+		<ul>
+			<li>Developed an eye drops detector for people with low vision, based on VGG16 feature embeddings,</li>
+			<li>Developed a Tear breakup time detector with CNN and manifold embeddings.</li>
+		</ul>
+		<h3>Statistician</h3>
+		<h5>Company: NIC.br [01/2016-08/2017]</h5>
+		<ul>
+			<li>Developed an automated and optimized system focused on enduring brazilian´s complex Internet Traffic Measurement System database,</li>
+			<li>Implemented prototypes of Disclosure Control Methods for MicroData databases.</li>
+		</ul>
 	</div>
 </div>
 
