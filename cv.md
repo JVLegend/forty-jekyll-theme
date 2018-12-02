@@ -19,15 +19,15 @@ nav-menu: true
 <h2 id="content">Quick BIO</h2>
 <p>João Victor é um profissional [INSERIR TEXTO].</p>
 
-<h1>WORK EXPERIENCE</h1>
+<h2>Work Experience</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Data Scientist</h3>
-		<h2>Company: everis</h2>
-		<h1>08/2017-Present</h1>
-		<p>- Coordinating everis Machine Learning Community Americas,
-		   - Driving the Data Science team on publishing research papers,
-- Evangelizing AI and helping attracting more talent to
+		<h4>Company: everis</h4>
+		<h5>08/2017-Present</h5>
+		<p>- Coordinating everis Machine Learning Community Americas,</p>
+		<p>- Driving the Data Science team on publishing research papers,</p>
+		<p>- Evangelizing AI and helping attracting more talent to
 the company,
 - Supervising Neural Networks architecture framework
 implementation,
