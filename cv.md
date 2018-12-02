@@ -207,7 +207,7 @@ nav-menu: true
 <!-- Press -->
 <h4>Press</h4>
 <ul class="alt">
-	<li><a href="https://universovisual.com.br/secao/materias/111/grandes-artistas-na-oftalmologia">LINK</a> - Grandes artistas na oftalmologia [Revista Universo Visual, 2018]</li>
+	<li><b><a href="https://universovisual.com.br/secao/materias/111/grandes-artistas-na-oftalmologia">LINK</a></b> - Grandes artistas na oftalmologia <strong>[Revista Universo Visual, 2018]</strong></li>
 </ul>
 </div>
 </div>
