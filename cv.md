@@ -58,6 +58,9 @@ nav-menu: true
 				newspapers, covers such as the Financial Times,</li>
 			<li>Co implemented a Bayesian spatial model using Twitter data applied on calculating ideological ideal points for legislative actors in Brazil.</li>
 		</ul>
+		<h3>External Jounalism Operator</h3>
+		<h5>Company: Rede Globo [07/2008-09/2009]</h5>
+		<p>Acted in aid of adjustment of satellite signals from mobile units of telejournalism, color correction, equipment assembly and lighting for journalism outdoors production.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Artificial Intelligence Coordinator</h3>
@@ -79,6 +82,9 @@ nav-menu: true
 			<li>Co implemented social network graphs framework using Gephi and R packages,</li>
 			<li>Created R Shiny visualisations for Urban Mobility.</li>
 		</ul>
+		<h3>Co Founder</h3>
+		<h5>Company: estatisti.CO [12/2012-12/2013]</h5>
+		<p>At 2012 he co-founded www.estatisti.co, a statistics based website focused on establishing a place where people could stay informed about the latest news, tips on career, Big Data, theoretical statistics, scientific articles, biographies, job opportunities, among other issues. It quickly became one of the brazilians most famous statistics website.</p>
 	</div>
 </div>
 
