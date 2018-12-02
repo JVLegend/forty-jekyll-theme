@@ -188,6 +188,17 @@ nav-menu: true
 </div>
 </div>
 
+<hr class="major" />
+
+
+<!-- Info -->
+<h2 id="Media">Media</h2>
+<div class="row 200%">
+	<div class="6u 12u$(medium)">
+
+<!-- Universities -->
+<h4>Universities</h4>
+
 </div>
 </section>
 
