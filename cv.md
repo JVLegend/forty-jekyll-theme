@@ -23,21 +23,17 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Data Scientist</h3>
-		<h4>Company: everis</h4>
-		<h5>08/2017-Present</h5>
+		<h5>Company: everis [08/2017-Present]</h5>
 		<p>- Coordinating everis Machine Learning Community Americas,</p>
-		<p>- Driving the Data Science team on publishing research papers,</p>
-		<p>- Evangelizing AI and helping attracting more talent to
-the company,
-- Supervising Neural Networks architecture framework
-implementation,
-- GAN architectures for data augmentation;
-- Automatic documents classification with ELMO + BI-
-LSTM + CNN + CRF,
-- Developed a hybrid model for Automated Offline
-Handwritten Signature Verification on checkbooks using
-Convolutional Networks,
-- Stock price estimation using LSTM + Attention,
+		<ul>
+			<li>- Driving the Data Science team on publishing research papers,</li>
+			<li>- Evangelizing AI and helping attracting more talent to the company,</li>
+			<li>- Supervising Neural Networks architecture framework implementation,</li>
+			<li>- GAN architectures for data augmentation,</li>
+			<li>- Automatic documents classification with ELMO + BI-LSTM + CNN + CRF,</li>
+			<li>- Developed a hybrid model for Automated Offline Handwritten Signature Verification on checkbooks using Convolutional Networks,</li>
+		</ul>
+		<p>- Stock price estimation using LSTM + Attention,
 - Object Detection, Recognition and Segmentation,
 - Face Recognition, Alignment and De-identification,
 - Developed a pedestrian tracking surveillance on
@@ -46,8 +42,10 @@ Raspberry Pi 3,
 Facebook Messenger with Tensorflow.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Artificial Intelligence Coordinator</h3>
+		<h5>Company: GeekVision - Clinical Hospital, University of São Paulo. [05/2017-Present]</h5>
+		<p>- Developed an eye drops detector for people with low vision, based on VGG16 feature embeddings,
+- Developed a Tear breakup time detector with CNN and manifold embeddings.</p>
 	</div>
 </div>
 
