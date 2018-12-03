@@ -276,6 +276,7 @@ nav-menu: true
 <h4>Press</h4>
 <ul class="alt">
 	<li><b><a href="https://universovisual.com.br/secao/materias/111/grandes-artistas-na-oftalmologia">LINK</a></b> - Grandes artistas na oftalmologia <strong>[Revista Universo Visual, 2018]</strong></li>
+	<li>What does a Statistician do? <strong>[Rádio Família 104.5fm, 2013]</strong></li>
 </ul>
 
 <!-- Conferences -->
