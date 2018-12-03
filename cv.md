@@ -147,6 +147,29 @@ nav-menu: true
 	<li><a href="" class="button fit small">Data Visualisation</a></li>
 </ul>
 
+<!-- Research Grants -->
+<h4>Research Grants</h4>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Title</th>
+				<th>Provider</th>
+				<th>Year</th>
+				<th>Country</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Tools for Formatting and Validation of Research Microdata</td>
+				<td>CNPq PIBIC</td>
+				<td>2012</td>
+				<td>Brazil</td>
+			</tr>
+		</tbody>
+	</table>
+</div>	
+
 <!-- Aditional Activities -->
 <h4>Aditional Activities</h4>
 
@@ -192,7 +215,7 @@ nav-menu: true
 	<table>
 		<thead>
 			<tr>
-				<th>Name</th>
+				<th>Title</th>
 				<th>Provider</th>
 				<th>Year</th>
 				<th>Country</th>
@@ -200,8 +223,20 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
+				<td>Survey Skills Development Course</td>
+				<td>Brazilian Institute of Geography and Statistics</td>
+				<td>2016</td>
+				<td>Brazil</td>
+			</tr>
+			<tr>
 				<td>Big Data in Healthcare</td>
 				<td>Coursera - University of São Paulo</td>
+				<td>2015</td>
+				<td>Brazil</td>
+			</tr>
+			<tr>
+				<td>Laboratório - RJ</td>
+				<td>Fundação Estudar</td>
 				<td>2015</td>
 				<td>Brazil</td>
 			</tr>
@@ -259,7 +294,6 @@ nav-menu: true
 	<li>Semifinalist - Data For Climate Action <strong>[UN GLobal Pulse, 2017]</strong></li>
 	<li>Survey Skills Development Course <strong>[IBGE, 2017]</strong></li>
 	<li>Rio de Janeiro´s Semifinalist – SEBRAE Challenge <strong>[SEBRAE, 2012]</strong></li>
-	<li>Undergraduate Scholarship at National School of Statistical Sciences <strong>[CNPq PIBIC, 2012]</strong></li>
 </ul>
 
 </div>
@@ -275,8 +309,9 @@ nav-menu: true
 <!-- Press -->
 <h4>Press</h4>
 <ul class="alt">
-	<li><b><a href="https://universovisual.com.br/secao/materias/111/grandes-artistas-na-oftalmologia">LINK</a></b> - Grandes artistas na oftalmologia <strong>[Revista Universo Visual, 2018]</strong></li>
+	<li><strong><a href="https://universovisual.com.br/secao/materias/111/grandes-artistas-na-oftalmologia">LINK</a></strong> - Grandes artistas na oftalmologia <strong>[Revista Universo Visual, 2018]</strong></li>
 	<li>What does a Statistician do? <strong>[Rádio Família 104.5fm, 2013]</strong></li>
+	<li><strong><a href="https://www.linkedin.com/in/joaovictordias/detail/treasury/position:555011179/?entityUrn=urn%3Ali%3Afs_treasuryMedia%3A(ACoAAAQ6G5cBjKhP4N4kQBF6cwrFPZbnUGIuU_w%2C50458490)&section=position%3A555011179&treasuryCount=2">LINK</a>Brazil's election: as polarised as can be<strong>[Financial Times, 2014]</strong></li>
 </ul>
 
 <!-- Conferences -->
