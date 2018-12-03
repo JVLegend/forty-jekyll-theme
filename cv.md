@@ -147,6 +147,26 @@ nav-menu: true
 	<li><a href="" class="button fit small">Data Visualisation</a></li>
 </ul>
 
+
+<!-- Tools -->
+<h4>Tools</h4>
+<ul class="actions fit small">
+	<li><a href="" class="button special fit small">Keras</a></li>
+	<li><a href="" class="button special fit small">Tensorflow</a></li>
+</ul>
+<ul class="actions fit small">
+	<li><a href="" class="button special fit small">PyTorch</a></li>
+	<li><a href="" class="button special fit small">OpenCV</a></li>
+</ul>
+<ul class="actions fit small">
+	<li><a href="" class="button special fit small">Python</a></li>
+	<li><a href="" class="button special fit small">R</a></li>
+</ul>
+<ul class="actions fit small">
+	<li><a href="" class="button special fit small">RaspberryPi</a></li>
+	<li><a href="" class="button special fit small">DICOM</a></li>
+</ul>
+
 <!-- Research Grants -->
 <h4>Research Grants</h4>
 <div class="table-wrapper">
@@ -188,26 +208,6 @@ nav-menu: true
 	<li>Japanese [Beginner]</li>
 </ul>
 
-
-
-<!-- Tools -->
-<h4>Tools</h4>
-<ul class="actions fit small">
-	<li><a href="" class="button special fit small">Keras</a></li>
-	<li><a href="" class="button special fit small">Tensorflow</a></li>
-</ul>
-<ul class="actions fit small">
-	<li><a href="" class="button special fit small">PyTorch</a></li>
-	<li><a href="" class="button special fit small">OpenCV</a></li>
-</ul>
-<ul class="actions fit small">
-	<li><a href="" class="button special fit small">Python</a></li>
-	<li><a href="" class="button special fit small">R</a></li>
-</ul>
-<ul class="actions fit small">
-	<li><a href="" class="button special fit small">RaspberryPi</a></li>
-	<li><a href="" class="button special fit small">DICOM</a></li>
-</ul>
 
 <!-- Certification -->
 <h4>Certification</h4>
