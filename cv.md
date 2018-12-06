@@ -325,6 +325,29 @@ nav-menu: true
 	</table>
 </div>
 
+<!-- Books published -->
+<h4>Books published</h4>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Title</th>
+				<th>Team</th>
+				<th>Institution</th>
+				<th>Year</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>ICT IN HEALTH 2016</td>
+				<td>SENNE, F. J. N. ; JEREISSATI, T. ; PITTA, M. T. ; RIBEIRO, M. M. ; DIAS, J. V. P. ; COELHO, I. B.</td>
+				<td>Brazilian Internet Steering Committee</td>
+				<td>2017</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
 </div>
 <div class="6u$ 12u$(medium)">
 
