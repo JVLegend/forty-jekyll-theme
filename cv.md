@@ -296,6 +296,35 @@ nav-menu: true
 	<li>Rio de Janeiro´s Semifinalist – SEBRAE Challenge <strong>[SEBRAE, 2012]</strong></li>
 </ul>
 
+<!-- Research Reports -->
+<h4>Research Reports</h4>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Title</th>
+				<th>Team</th>
+				<th>Institution</th>
+				<th>Year</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>A polícia e os 'black blocs'. A percepção dos policiais sobre junho de 2013</td>
+				<td>RUEDIGER, M. A. ; SOUZA, R. M. ; GRASSI, A. S. ; LUZ, M. ; DIAS, J. V. P.</td>
+				<td>Fundação Getúlo Vargas/DAPP</td>
+				<td>2014</td>
+			</tr>
+			<tr>
+				<td>Mobilidade urbana e cidadania: percepções dos usuários de transporte público no Brasil.</td>
+				<td>RUEDIGER, M. A. ; SOUZA, R. M. ; GRASSI, A. S. ; LUZ, M. ; DIAS, J. V. P.</td>
+				<td>Fundação Getúlo Vargas/DAPP</td>
+				<td>2014</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
 </div>
 <div class="6u$ 12u$(medium)">
 
@@ -335,8 +364,7 @@ nav-menu: true
 			</tr>
 		</tbody>
 	</table>
-</div>	
-
+</div>
 
 
 </div>
