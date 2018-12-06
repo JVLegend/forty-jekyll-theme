@@ -316,6 +316,28 @@ nav-menu: true
 
 <!-- Conferences -->
 <h4>Conferences</h4>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Title</th>
+				<th>Team</th>
+				<th>Conference</th>
+				<th>Year</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Ferramentas para Formatação e Verificação de Microdados de Pesquisas</td>
+				<td>DIAS, J. V. P.; SILVA, P. L. N.</td>
+				<td>21º SINAPE - Simpósio Nacional de Probabilidade e Estatística</td>
+				<td>2014</td>
+			</tr>
+		</tbody>
+	</table>
+</div>	
+
+
 
 </div>
 </div>
