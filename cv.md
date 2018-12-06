@@ -357,7 +357,7 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>Ferramentas para Formatação e Verificação de Microdados de Pesquisas</td>
+				<td>Tools for Formatting and Validation of Research Microdata</td>
 				<td>DIAS, J. V. P.; SILVA, P. L. N.</td>
 				<td>21º SINAPE - Simpósio Nacional de Probabilidade e Estatística</td>
 				<td>2014</td>
