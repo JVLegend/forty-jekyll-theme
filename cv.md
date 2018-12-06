@@ -192,7 +192,7 @@ nav-menu: true
 
 <!-- Aditional Activities -->
 <h4>Aditional Activities</h4>
-
+<p>Special Student - Analysis of Algorithms - University of São Paulo - 2016</p>
 
 
 </div>
