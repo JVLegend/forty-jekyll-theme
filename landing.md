@@ -2,7 +2,7 @@
 title: Projects
 layout: landing
 description: 'My personal projects<br />by category.'
-image: assets/images/pic07.jpg
+image: assets/images/tech_back.jpg
 nav-menu: true
 ---
 
