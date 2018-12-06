@@ -366,6 +366,12 @@ nav-menu: true
 	</table>
 </div>
 
+<!-- Workshops -->
+<h4>Workshops</h4>
+<ul class="alt">
+	<li>VII NIC.br Annual Workshop on Survey Methodology <strong>[NIC.br, 2017]</strong></li>
+</ul>
+
 
 </div>
 </div>
