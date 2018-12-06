@@ -389,6 +389,12 @@ nav-menu: true
 	</table>
 </div>
 
+<!-- Congress -->
+<h4>Congress</h4>
+<ul class="alt">
+	<li>60th ISI World Statistics Congress <strong>[ISI, 2015]</strong></li>
+</ul>
+
 <!-- Workshops -->
 <h4>Workshops</h4>
 <ul class="alt">
