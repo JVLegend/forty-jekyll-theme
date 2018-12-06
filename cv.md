@@ -370,6 +370,7 @@ nav-menu: true
 <h4>Workshops</h4>
 <ul class="alt">
 	<li>VII NIC.br Annual Workshop on Survey Methodology <strong>[NIC.br, 2017]</strong></li>
+	<li>VI NIC.br Annual Workshop on Survey Methodology <strong>[NIC.br, 2016]</strong></li>
 </ul>
 
 
