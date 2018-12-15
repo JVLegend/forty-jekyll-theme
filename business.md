@@ -14,11 +14,11 @@ Our company allows you to access several professionals with expertise in analyti
 You propose the challenge and we assemble a team of experts tailored to develop the solution and accompany you until the goal is completed.
 
 
-<h1>IA Para Médicos</h1>
+<h1>AI for Doctors (IA Para Médicos)</h1>
   <h3>Where people learn about applied artificial intelligence in HealhTech.</h3>
 
-It is with great satisfaction that the Data RockStar team brings you the <strong>IAparaMédicos</strong>, a place of knowledge, where physicians and those interested in Medicine can improve themselves in the implementation of the scientific knowledge of Artificial Intelligence.
+It is with great satisfaction that the Data RockStar team brings you the <strong>AIforDoctors</strong>, a place of knowledge, where physicians and those interested in Medicine can improve themselves in the implementation of the scientific knowledge of Artificial Intelligence.
 
-IAparaMédicos has a simple but direct approach with a focus on excellence: Inform you with almost daily content about news, conferences, new techniques, and futurism in Medicine.
+AIforDoctors has a simple but direct approach with a focus on excellence: Inform you with almost daily content about news, conferences, new techniques, and futurism in Medicine.
 
 It will be a great pleasure to count on your presence, comments and in case of specific doubts our team will be available to assist you through our contact email iaparamedicos@gmail.com
