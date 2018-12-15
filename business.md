@@ -6,7 +6,6 @@ image:
 nav-menu: true
 ---
 <h1><a href="http://datarockstar.com.br/">Data RockStar</a></h1>
-<h1>Data Rockstar</h1>
   <h3>The largest network that supports projects and companies using Artificial Intelligence!</h3>
 
 Our company allows you to access several professionals with expertise in analytics and computer vision. Through our specialized team, we can assist your business project and deliver the technology solution you need.
@@ -14,7 +13,7 @@ Our company allows you to access several professionals with expertise in analyti
 You propose the challenge and we assemble a team of experts tailored to develop the solution and accompany you until the goal is completed.
 
 
-<h1>AI for Doctors (IA Para Médicos)</h1>
+<h1><a href="http://datarockstar.com.br/">AI for Doctors (IA Para Médicos)</a></h1>
   <h3>Where people learn about applied artificial intelligence in HealhTech.</h3>
 
 It is with great satisfaction that the Data RockStar team brings you the <strong>AIforDoctors</strong>, a place of knowledge, where physicians and those interested in Medicine can improve themselves in the implementation of the scientific knowledge of Artificial Intelligence.
