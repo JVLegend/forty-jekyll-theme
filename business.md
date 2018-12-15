@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: landing
 title: Business
 description: Startups I own or that I take part in
-image:
+image: assets/images/tech_back.jpg
 nav-menu: true
 ---
 <h1><a href="http://datarockstar.com.br/">Data RockStar</a></h1>
