@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: post
 title: Business
 description: Startups I own or that I take part in
 image: assets/images/tech_back.jpg
