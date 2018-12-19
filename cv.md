@@ -395,6 +395,13 @@ nav-menu: true
 	<li>60th ISI World Statistics Congress <strong>[ISI, 2015]</strong></li>
 </ul>
 
+<!-- Symposium -->
+<h4>Symposium</h4>
+<ul class="alt">
+	<li>Web Scraping as a alternative data sources to predict E-Commerce indicators <strong>[StatCan International Methodology Symposium, 2018]</strong></li>
+</ul>
+
+
 <!-- Workshops -->
 <h4>Workshops</h4>
 <ul class="alt">
