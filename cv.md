@@ -85,6 +85,13 @@ nav-menu: true
 		<h3>Co Founder</h3>
 		<h5>Company: estatisti.CO [12/2012-12/2013]</h5>
 		<p>At 2012 he co-founded www.estatisti.co, a statistics based website focused on establishing a place where people could stay informed about the latest news, tips on career, Big Data, theoretical statistics, scientific articles, biographies, job opportunities, among other issues. It quickly became one of the brazilians most famous statistics website.</p>
+		<h3>Competitions</h3>
+		<h5>Company: Kaggle</h5>
+		<ul>
+			<li><strong>148th of 2023</strong> - PetFinder.my Adoption Prediction<strong>BRONZE MEDAL</strong></li>
+			<li><strong>1776th of 9038</strong> - Santander Customer Transaction Prediction</li>
+			<li><strong>666th of 3835</strong> - Mercedes-Benz Greener Manufacturing</li>
+		</ul>
 	</div>
 </div>
 
