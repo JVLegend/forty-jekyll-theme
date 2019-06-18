@@ -110,7 +110,7 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>University of Mannheim</td>
+				<td>University of Mannheim [Incomplete]</td>
 				<td>MS in Survey and Data Science</td>
 				<td>2019</td>
 				<td>Germany</td>
@@ -222,6 +222,12 @@ nav-menu: true
 			</tr>
 		</thead>
 		<tbody>
+			<tr>
+				<td>AI for Everyone</td>
+				<td>Coursera</td>
+				<td>2019</td>
+				<td>Brazil</td>
+			</tr>
 			<tr>
 				<td>Survey Skills Development Course</td>
 				<td>Brazilian Institute of Geography and Statistics</td>
