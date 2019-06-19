@@ -486,6 +486,12 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
+				<td>Invited Session - Offline Signature Recognition with Machine Learning</td>
+				<td>DIAS, J. V. P.</td>
+				<td>11th IASC-ARS Conference</td>
+				<td>2019</td>
+			</tr>
+			<tr>
 				<td>Tools for Formatting and Validation of Research Microdata</td>
 				<td>DIAS, J. V. P.; SILVA, P. L. N.</td>
 				<td>21º SINAPE - Simpósio Nacional de Probabilidade e Estatística</td>
