@@ -61,6 +61,9 @@ nav-menu: true
 		<h3>External Jounalism Operator</h3>
 		<h5>Company: Rede Globo [07/2008-09/2009]</h5>
 		<p>Acted in aid of adjustment of satellite signals from mobile units of telejournalism, color correction, equipment assembly and lighting for journalism outdoors production.</p>
+		<h3>StartupMentor</h3>
+		<h5>Company: Bluefields Aceleradora [05/2019-Present]</h5>
+		<p>Artificial Intelligence Mentoring.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Artificial Intelligence Coordinator</h3>
@@ -91,7 +94,7 @@ nav-menu: true
 		<h3>Competitions</h3>
 		<h5>Company: Kaggle</h5>
 		<ul>
-			<li><strong>148th of 2023</strong> - PetFinder.my Adoption Prediction<strong>BRONZE MEDAL</strong></li>
+			<li><strong>148th of 2023</strong> - PetFinder.my Adoption Prediction <strong>BRONZE MEDAL</strong></li>
 			<li><strong>1776th of 9038</strong> - Santander Customer Transaction Prediction</li>
 			<li><strong>666th of 3835</strong> - Mercedes-Benz Greener Manufacturing</li>
 		</ul>
