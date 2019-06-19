@@ -368,9 +368,87 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>ICT IN HEALTH 2016</td>
-				<td>SENNE, F. J. N. ; JEREISSATI, T. ; PITTA, M. T. ; RIBEIRO, M. M. ; DIAS, J. V. P. ; COELHO, I. B.</td>
+				<td>SENNE, F. J. N. ; JEREISSATI, T. ; PITTA, M. T. ; RIBEIRO, M. M. ; DIAS, J. V. P. et al</td>
 				<td>Brazilian Internet Steering Committee</td>
 				<td>2017</td>
+			</tr>
+			<tr>
+				<td>ICT IN HEALTH 2015</td>
+				<td>SENNE, F. J. N. ; JEREISSATI, T. ; PITTA, M. T. ; RIBEIRO, M. M. ; DIAS, J. V. P. et al</td>
+				<td>Brazilian Internet Steering Committee</td>
+				<td>2016</td>
+			</tr>
+			<tr>
+				<td>ICT HOUSEHOLDS 2016</td>
+				<td>SENNE, F. J. N. ; JEREISSATI, T. ; PITTA, M. T. ; RIBEIRO, M. M. ; DIAS, J. V. P. et al</td>
+				<td>Brazilian Internet Steering Committee</td>
+				<td>2017</td>
+			</tr>
+			<tr>
+				<td>ICT HOUSEHOLDS 2015</td>
+				<td>SENNE, F. J. N. ; JEREISSATI, T. ; PITTA, M. T. ; RIBEIRO, M. M. ; DIAS, J. V. P. et al</td>
+				<td>Brazilian Internet Steering Committee</td>
+				<td>2016</td>
+			</tr>
+			<tr>
+				<td>ICT ENTERPRISES 2015</td>
+				<td>SENNE, F. J. N. ; JEREISSATI, T. ; PITTA, M. T. ; RIBEIRO, M. M. ; DIAS, J. V. P. et al</td>
+				<td>Brazilian Internet Steering Committee</td>
+				<td>2016</td>
+			</tr>
+			<tr>
+				<td>ICT IN EDUCATION 2016</td>
+				<td>SENNE, F. J. N. ; JEREISSATI, T. ; PITTA, M. T. ; RIBEIRO, M. M. ; DIAS, J. V. P. et al</td>
+				<td>Brazilian Internet Steering Committee</td>
+				<td>2017</td>
+			</tr>
+			<tr>
+				<td>ICT IN EDUCATION 2015</td>
+				<td>SENNE, F. J. N. ; JEREISSATI, T. ; PITTA, M. T. ; RIBEIRO, M. M. ; DIAS, J. V. P. et al</td>
+				<td>Brazilian Internet Steering Committee</td>
+				<td>2016</td>
+			</tr>
+			<tr>
+				<td>ICT KIDS ONLINE BRAZIL 2016</td>
+				<td>SENNE, F. J. N. ; JEREISSATI, T. ; PITTA, M. T. ; RIBEIRO, M. M. ; DIAS, J. V. P. et al</td>
+				<td>Brazilian Internet Steering Committee</td>
+				<td>2017</td>
+			</tr>
+			<tr>
+				<td>ICT KIDS ONLINE BRAZIL 2015</td>
+				<td>SENNE, F. J. N. ; JEREISSATI, T. ; PITTA, M. T. ; RIBEIRO, M. M. ; DIAS, J. V. P. et al</td>
+				<td>Brazilian Internet Steering Committee</td>
+				<td>2016</td>
+			</tr>
+			<tr>
+				<td>ICT NONPROFIT ORGANIZATIONS 2016</td>
+				<td>SENNE, F. J. N. ; JEREISSATI, T. ; PITTA, M. T. ; RIBEIRO, M. M. ; DIAS, J. V. P. et al</td>
+				<td>Brazilian Internet Steering Committee</td>
+				<td>2017</td>
+			</tr>
+			<tr>
+				<td>ICT IN CULTURE 2016</td>
+				<td>SENNE, F. J. N. ; JEREISSATI, T. ; PITTA, M. T. ; RIBEIRO, M. M. ; DIAS, J. V. P. et al</td>
+				<td>Brazilian Internet Steering Committee</td>
+				<td>2017</td>
+			</tr>
+			<tr>
+				<td>CULTURA E TECNOLOGIAS NO BRASIL: um estudo sobre as práticas culturais da população e o uso das tecnologias de informação e comunicação</td>
+				<td>SENNE, F. J. N. ; JEREISSATI, T. ; PITTA, M. T. ; RIBEIRO, M. M. ; DIAS, J. V. P. et al</td>
+				<td>Brazilian Internet Steering Committee</td>
+				<td>2017</td>
+			</tr>
+			<tr>
+				<td>ICT ELECTRONIC GOVERNMENT 2015</td>
+				<td>SENNE, F. J. N. ; JEREISSATI, T. ; PITTA, M. T. ; RIBEIRO, M. M. ; DIAS, J. V. P. et al</td>
+				<td>Brazilian Internet Steering Committee</td>
+				<td>2016</td>
+			</tr>
+			<tr>
+				<td>ICT PROVIDERS 2014</td>
+				<td>SENNE, F. J. N. ; JEREISSATI, T. ; PITTA, M. T. ; RIBEIRO, M. M. ; DIAS, J. V. P. et al</td>
+				<td>Brazilian Internet Steering Committee</td>
+				<td>2015</td>
 			</tr>
 		</tbody>
 	</table>
