@@ -81,6 +81,9 @@ nav-menu: true
 			<li>Implemented Dashboards integrated with non relational databases to structure clinics data and deliver on a mobile solution,</li>
 			<li>Developed a Dry-Eye disease solution with Neural Networks on Smartphones.</li>
 		</ul>
+		<h3>Founder and Strategists</h3>
+		<h5>Company: Crypto Portfolium Club [05/2019-Present]</h5>
+		<p>Crypto Bots and Portfolio Management based AI models.</p>
 		<h3>Statistician</h3>
 		<h5>Company: NIC.br [01/2016-08/2017]</h5>
 		<ul>
