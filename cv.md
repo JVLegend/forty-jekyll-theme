@@ -186,7 +186,7 @@ nav-menu: true
 </ul>
 <ul class="actions fit small">
 	<li><a href="" class="button special fit small">RaspberryPi</a></li>
-	<li><a href="" class="button special fit small">DICOM</a></li>
+	<li><a href="" class="button special fit small">Ensembles</a></li>
 </ul>
 
 <!-- Research Grants -->
