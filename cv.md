@@ -66,8 +66,11 @@ nav-menu: true
 		<h3>Artificial Intelligence Coordinator</h3>
 		<h5>Company: GeekVision - Clinical Hospital, University of São Paulo [05/2017-Present]</h5>
 		<ul>
-			<li>Developed an eye drops detector for people with low vision, based on VGG16 feature embeddings,</li>
-			<li>Developed a Tear breakup time detector with CNN and manifold embeddings.</li>
+			<li>Supports AI innovation at University of São Paulo's Ophthalmology Clinics Hospital,</li>
+			<li>Implemented Convolutional Neural Networks to assist low vision patients on identifying chosen elevators,</li>
+			<li>Developed an Eye Drops Identifier with RetinaNet,</li>
+			<li>Implemented Dashboards integrated with non relational databases to structure clinics data and deliver on a mobile solution,</li>
+			<li>Developed a Dry-Eye disease solution with Neural Networks on Smartphones.</li>
 		</ul>
 		<h3>Statistician</h3>
 		<h5>Company: NIC.br [01/2016-08/2017]</h5>
