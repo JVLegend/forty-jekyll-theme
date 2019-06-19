@@ -26,6 +26,12 @@ nav-menu: true
 <h2>Work Experience</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
+		<h3>Head of Artificial Intelligence</h3>
+		<h5>Company: IA para Médicos [06/2018-Present]</h5>
+		<ul>
+			<li>Editor of Artificial Intelligence Futurism news applied to Medicine,</li>
+			<li>Workshops about productionizing AI projects.</li>
+		</ul>	
 		<h3>Data Scientist</h3>
 		<h5>Company: everis [08/2017-Present]</h5>
 		<ul>
