@@ -67,11 +67,11 @@ nav-menu: true
 		<h3>External Jounalism Operator</h3>
 		<h5>Company: Rede Globo [07/2008-09/2009]</h5>
 		<p>Acted in aid of adjustment of satellite signals from mobile units of telejournalism, color correction, equipment assembly and lighting for journalism outdoors production.</p>
+	</div>
+	<div class="6u$ 12u$(small)">
 		<h3>StartupMentor</h3>
 		<h5>Company: Bluefields Aceleradora [05/2019-Present]</h5>
 		<p>Artificial Intelligence Mentoring.</p>
-	</div>
-	<div class="6u$ 12u$(small)">
 		<h3>Artificial Intelligence Coordinator</h3>
 		<h5>Company: GeekVision - Clinical Hospital, University of São Paulo [05/2017-Present]</h5>
 		<ul>
