@@ -57,13 +57,6 @@ nav-menu: true
 			<li>Developed a pedestrian tracking surveillance on Raspberry Pi 3,</li>
 			<li>Developed a Retrieval-based banking chatbot on Facebook Messenger with Tensorflow.</li>
 		</ul>
-		<h3>Team Lead</h3>
-		<h5>Company: United Nations Global Pulse [06/2017-09/2017]</h5>
-		<ul>
-			<li>Data for Climate Action Challenge: The challenge wasto harness data science and big data from the private
-				sector to fight climate change,</li>
-			<li>Semifinalist. Developed a Waze like app to help people find the purest air- path at Chicago and São Paulo.</li>
-		</ul>
 		<h3>Statistical Analyst</h3>
 		<h5>Company: Fundação Getúlio Vargas [01/2014-12/2015]</h5>
 		<ul>
@@ -96,9 +89,6 @@ nav-menu: true
 			<li>Implemented Dashboards integrated with non relational databases to structure clinics data and deliver on a mobile solution,</li>
 			<li>Developed a Dry-Eye disease solution with Neural Networks on Smartphones.</li>
 		</ul>
-		<h3>Founder and Strategists</h3>
-		<h5>Company: Crypto Portfolium Club [05/2019-Present]</h5>
-		<p>Crypto Bots and Portfolio Management based AI models.</p>
 		<h3>Statistician</h3>
 		<h5>Company: NIC.br [01/2016-08/2017]</h5>
 		<ul>
