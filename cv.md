@@ -116,7 +116,7 @@ nav-menu: true
 	</div>
 </div>
 
-<h2>Topic Groups Member>
+<h2>Topic Groups Member</h2>
 <h3>AI For Health: Artificial Intelligence for Ophthalmology</h3>
 		<h5>Company: I.T.U./W.H.O. [09/2019-Present]</h5>
 
@@ -561,6 +561,13 @@ nav-menu: true
 	<li>VI NIC.br Annual Workshop on Survey Methodology <strong>[NIC.br, 2016]</strong></li>
 </ul>
 
+
+<!-- Meetups -->
+<h4>Meetups</h4>
+<ul class="alt">
+	<li>Reproducing papers and evaluating benchmarks in the pre-training of Language Models in Portuguese <strong>[Santander Meetups, 2019]</strong></li>
+	<li>DataOps Frameworks <strong>[Itaú Meetups, 2019]</strong></li>
+</ul>
 
 </div>
 </div>
