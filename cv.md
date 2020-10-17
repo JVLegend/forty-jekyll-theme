@@ -26,14 +26,23 @@ nav-menu: true
 <h2>Work Experience</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Head of Artificial Intelligence</h3>
-		<h5>Company: IA para Médicos [06/2018-Present]</h5>
+		<h3>Senior Vice President of Data Science and Analytics</h3>
+		<h5>Company: Captalys [08/2020-Present]</h5>
 		<ul>
-			<li>Editor of Artificial Intelligence Futurism news applied to Medicine,</li>
-			<li>Workshops about productionizing AI projects.</li>
+			<li>Probabilistic Scorecards creation,</li>
+			<li>Application Scoring and Pricing models with Machine Learning.</li>
+		</ul>
+		<h3>Lead Data Scientist</h3>
+		<h5>Company: everis [08/2019-07/2020]</h5>
+		<ul>
+			<li>Planning and executing large data science projects,</li>
+			<li>Organizing the career development of the Data Scientists at the company,</li>
+			<li>Participating in management meetings to help establish data roadmap and strategies,</li>
+			<li>Building a great team by both recruiting great talent and helping them grow,</li>
+			<li>Implementing DataPrivacyOps with Federated Learning, Differential Privacy and Multi-party Computation.</li>
 		</ul>	
 		<h3>Data Scientist</h3>
-		<h5>Company: everis [08/2017-Present]</h5>
+		<h5>Company: everis [08/2017-08/2019]</h5>
 		<ul>
 			<li>Coordinating everis Machine Learning Community Americas,</li>
 			<li>Driving the Data Science team on publishing research papers,</li>
@@ -69,6 +78,12 @@ nav-menu: true
 		<p>Acted in aid of adjustment of satellite signals from mobile units of telejournalism, color correction, equipment assembly and lighting for journalism outdoors production.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
+		<h3>Head of Artificial Intelligence</h3>
+		<h5>Company: IA para Médicos [06/2018-Present]</h5>
+		<ul>
+			<li>Editor of Artificial Intelligence Futurism news applied to Medicine,</li>
+			<li>Workshops about productionizing AI projects.</li>
+		</ul>
 		<h3>StartupMentor</h3>
 		<h5>Company: Bluefields Aceleradora [05/2019-Present]</h5>
 		<p>Artificial Intelligence Mentoring.</p>
