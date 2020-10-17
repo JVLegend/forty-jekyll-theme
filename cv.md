@@ -562,6 +562,13 @@ nav-menu: true
 </ul>
 
 
+<!-- Seminars -->
+<h4>Seminars</h4>
+<ul class="alt">
+	<li>AI, Privacy and Open Banking <strong>[Bradesco Innovation Day, 2020]</strong></li>
+</ul>
+
+
 <!-- Meetups -->
 <h4>Meetups</h4>
 <ul class="alt">
