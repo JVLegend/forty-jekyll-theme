@@ -17,9 +17,9 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Quick BIO</h2>
-<p>João Victor Dias is a data scientist at everis Brazil, coordinates the LATAM Data Science community at everis and also coordinates the Artificial Intelligence area of the Innovation Group in Ophthalmology at the Hospital das Clínicas de São Paulo.</p>
+<p>João Victor Dias is a Senior Vice President of Data Science and Analytics at Captalys and coordinates the Artificial Intelligence area of the Innovation Group in Ophthalmology at the Hospital das Clínicas de São Paulo.</p>
 
-<p>He is a specialist in the implementation of newly published Artificial Intelligence solutions, usually State of the Art updates, in the areas of Computational Vision and Natural Language Processing. He works in Healthcare, Banking, Fashion and Retail projects, among others.</p> 
+<p>He is a specialist in the implementation of newly published Artificial Intelligence solutions, usually State of the Art updates, in the areas of Computational Vision and Natural Language Processing. He works in Private Credit, Healthcare, Banking and Retail projects, among others.</p> 
  
 <p>He has had some of his works published in the Financial Times, The Guardian, and several articles in magazines and newspapers of great circulation in Brazil. In 2012 he founded one of the largest Statistical websites in Brazil, and is currently producing new content on the recently launched portal www.datarockstar.com.</p>
 
@@ -188,20 +188,40 @@ nav-menu: true
 <!-- Tools -->
 <h4>Tools</h4>
 <ul class="actions fit small">
-	<li><a href="" class="button special fit small">Keras</a></li>
+	<li><a href="" class="button special fit small">PyTorch</a></li>
 	<li><a href="" class="button special fit small">Tensorflow</a></li>
 </ul>
 <ul class="actions fit small">
-	<li><a href="" class="button special fit small">PyTorch</a></li>
+	<li><a href="" class="button special fit small">PySift</a></li>
+	<li><a href="" class="button special fit small">Keras</a></li>
+</ul>
+<ul class="actions fit small">
+	<li><a href="" class="button special fit small">SciPy</a></li>
+	<li><a href="" class="button special fit small">NumPy</a></li>
+</ul>
+<ul class="actions fit small">
+	<li><a href="" class="button special fit small">Scikit-Learn</a></li>
 	<li><a href="" class="button special fit small">OpenCV</a></li>
 </ul>
 <ul class="actions fit small">
-	<li><a href="" class="button special fit small">Python</a></li>
-	<li><a href="" class="button special fit small">R</a></li>
+	<li><a href="" class="button special fit small">NLTK</a></li>
+	<li><a href="" class="button special fit small">Unix</a></li>
 </ul>
 <ul class="actions fit small">
-	<li><a href="" class="button special fit small">RaspberryPi</a></li>
-	<li><a href="" class="button special fit small">Ensembles</a></li>
+	<li><a href="" class="button special fit small">Git</a></li>
+	<li><a href="" class="button special fit small">Raspberry Pi</a></li>
+</ul>
+<ul class="actions fit small">
+	<li><a href="" class="button special fit small">Transformers</a></li>
+	<li><a href="" class="button special fit small">Shiny Pi</a></li>
+</ul>
+<ul class="actions fit small">
+	<li><a href="" class="button special fit small">Gephi</a></li>
+	<li><a href="" class="button special fit small">Caret</a></li>
+</ul>
+<ul class="actions fit small">
+	<li><a href="" class="button special fit small">Docker</a></li>
+	<li><a href="" class="button special fit small">Agile</a></li>
 </ul>
 
 <!-- Research Grants -->
