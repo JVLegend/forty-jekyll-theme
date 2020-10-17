@@ -585,6 +585,21 @@ nav-menu: true
 	<li>DataOps Frameworks <strong>[Itaú Meetups, 2019]</strong></li>
 </ul>
 
+
+<!-- Teaching -->
+<h4>Teaching</h4>
+<ul class="alt">
+	<li>Innovation Class in Ophthalmology: ML for Physicians <strong>[USP HC, 2020]</strong></li>
+	<li>Statistical Power for Data Scientists <strong>[Everis, 2019]</strong></li>
+	<li>Innovation Class in Ophthalmology: How to train your algorithm <strong>[USP HC, 2019]</strong></li>
+	<li>The Grammar of Graphics <strong>[Everis, 2019]</strong></li>
+	<li>Data Visualization with Python and R <strong>[Everis, 2019]</strong></li>
+	<li>Introduction to Neural Networks <strong>[Everis, 2018]</strong></li>
+	<li>Machine Learning Hands-On <strong>[Everis, 2018]</strong></li>
+	<li>Convolutional Neural Networks <strong>[Everis, 2018]</strong></li>
+	<li>Introduction to TensorFlow <strong>[Mackenzie, 2017]</strong></li>
+</ul>
+
 </div>
 </div>
 
