@@ -1,7 +1,7 @@
 # site settings
 title: Joao Victor Dias
 subtitle: Artificial Intelligence
-email: jvictordias@gmail.com
+email: jvictordias [at] gmail [dot] com
 description: My CV, startups<br /> and major projects.
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -10,7 +10,7 @@ street_address: Sao Paulo
 city: Sao Paulo
 state: SP
 country: Brazil
-phone: (11) 98767-9758
+phone: Ask via email
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
