@@ -539,6 +539,15 @@ nav-menu: true
 	</table>
 </div>
 
+<!-- Invited Talks and Panels -->
+<h4>Invited Talks and Panels</h4>
+<ul class="alt">
+	<li>AI for Strabimus <strong>[ARVO, 2020]</strong></li>
+	<li>Tracking Systems for Banking Sector <strong>[CIAB, 2018]</strong></li>
+	<li>IX International Life Sciences Institute Congress <strong>[ILSI, 2018]</strong></li>
+</ul>
+
+
 <!-- Congress -->
 <h4>Congress</h4>
 <ul class="alt">
