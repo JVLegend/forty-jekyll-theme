@@ -238,6 +238,12 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
+				<td>Knights Templar Eye Foundation Travel Grant ($ 1,110 USD)</td>
+				<td>ARVO</td>
+				<td>2020</td>
+				<td>United States of America</td>
+			</tr>
+			<tr>
 				<td>Tools for Formatting and Validation of Research Microdata</td>
 				<td>CNPq PIBIC</td>
 				<td>2012</td>
