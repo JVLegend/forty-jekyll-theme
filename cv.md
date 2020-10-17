@@ -219,10 +219,6 @@ nav-menu: true
 	<li><a href="" class="button special fit small">Agile</a></li>
 </ul>
 
-<!-- Aditional Activities -->
-<h4>Aditional Activities</h4>
-<p>Special Student - Analysis of Algorithms - University of São Paulo - 2016</p>
-
 
 </div>
 <div class="6u$ 12u$(medium)">
@@ -338,6 +334,10 @@ nav-menu: true
 		</tbody>
 	</table>
 </div>	
+
+<!-- Aditional Activities -->
+<h4>Aditional Activities</h4>
+<p>Special Student - Analysis of Algorithms - University of São Paulo - 2016</p>
 
 </div>
 </div>
