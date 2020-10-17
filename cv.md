@@ -219,35 +219,6 @@ nav-menu: true
 	<li><a href="" class="button special fit small">Agile</a></li>
 </ul>
 
-<!-- Research Grants -->
-<h4>Research Grants</h4>
-<div class="table-wrapper">
-	<table>
-		<thead>
-			<tr>
-				<th>Title</th>
-				<th>Provider</th>
-				<th>Year</th>
-				<th>Country</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Knights Templar Eye Foundation Travel Grant ($ 1,110 USD)</td>
-				<td>ARVO</td>
-				<td>2020</td>
-				<td>United States of America</td>
-			</tr>
-			<tr>
-				<td>Tools for Formatting and Validation of Research Microdata</td>
-				<td>CNPq PIBIC</td>
-				<td>2012</td>
-				<td>Brazil</td>
-			</tr>
-		</tbody>
-	</table>
-</div>	
-
 <!-- Aditional Activities -->
 <h4>Aditional Activities</h4>
 <p>Special Student - Analysis of Algorithms - University of São Paulo - 2016</p>
@@ -337,6 +308,36 @@ nav-menu: true
 		</tbody>
 	</table>
 </div>
+
+
+<!-- Research Grants -->
+<h4>Research Grants</h4>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Title</th>
+				<th>Provider</th>
+				<th>Year</th>
+				<th>Country</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Knights Templar Eye Foundation Travel Grant ($ 1,110 USD)</td>
+				<td>ARVO</td>
+				<td>2020</td>
+				<td>United States of America</td>
+			</tr>
+			<tr>
+				<td>Tools for Formatting and Validation of Research Microdata</td>
+				<td>CNPq PIBIC</td>
+				<td>2012</td>
+				<td>Brazil</td>
+			</tr>
+		</tbody>
+	</table>
+</div>	
 
 </div>
 </div>
